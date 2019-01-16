@@ -3,4 +3,5 @@ mayo
 pineapple
 chicken
 chocolate
-milk
+Milk
+chili
