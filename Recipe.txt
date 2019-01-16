@@ -5,5 +5,11 @@ chicken
 chocolate
 Milk
 chili
+<<<<<<< HEAD
+Mushrooms
+=======
 Mushroom
+olive
+>>>>>>> master
+
 olive
